@@ -498,6 +498,7 @@ section .title::after {
 }
 .contact .contact-content .socialMedia i {
   font-size: 25px;
+  margin: 5px 10px 0 0;
 }
 .contact .contact-content .socialMedia i:hover {
   color: crimson;
